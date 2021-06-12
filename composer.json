@@ -1,0 +1,19 @@
+{
+    "require": {
+        "sinergi/browser-detector": "^6.1",
+        "intervention/image": "^2.5",
+        "ircmaxell/random-lib": "^1.2",
+        "egulias/email-validator": "^3.0",
+        "voku/anti-xss": "^4.1",
+        "filp/whoops": "^2.9",
+        "laminas/laminas-escaper": "^2.7",
+        "dibi/dibi": "^4.2",
+        "symfony/finder": "^5.3"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Lesikom\\": "src/lesikom"
+        }
+    }
+}
